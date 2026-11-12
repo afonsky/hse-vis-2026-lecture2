@@ -75,10 +75,6 @@ src: ./slides/3_mapping_data.md
 ---
 
 ---
-src: ./slides/3_perception_takeaway.md
----
-
----
 src: ./slides/4_summary.md
 ---
 

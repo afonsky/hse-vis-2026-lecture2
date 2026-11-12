@@ -395,6 +395,62 @@ Turk](https://ru.wikipedia.org/wiki/Amazon_Mechanical_Turk)
 
 ---
 
+# Оптические иллюзии
+
+<br>
+<div class="grid grid-cols-[5fr_5fr] gap-20">
+<div>
+<figure>
+<v-click at="1">
+  <img src="/Lilac-Chaser.gif" style="width: 300px !important;">
+</v-click>
+  <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 0px; left: 0px;"><br><a href="https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%84%D0%B5%D0%BA%D1%82_%D0%A2%D1%80%D0%BE%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0">Эффект Трокслера</a>
+  </figcaption>
+</figure>
+</div>
+<div>
+<v-click at="2">
+<figure>
+  <img src="/Troxler.jpg" style="width: 300px !important;">
+</figure>
+</v-click>
+</div>
+</div>
+
+---
+
+# Оптические иллюзии
+
+<br>
+<div class="grid grid-cols-[5fr_5fr] gap-20">
+<div>
+<figure>
+  <img src="/hermannGrid.gif" style="width: 300px !important;">
+  <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 0px; left: 0px;"><a href="https://en.wikipedia.org/wiki/Grid_illusion">Иллюзия сетки</a>
+  </figcaption>
+</figure>
+</div>
+<div>
+<figure>
+  <img src="/hermannGridNegative.gif" style="width: 300px !important;">
+</figure>
+</div>
+</div>
+
+---
+
+# Оптические иллюзии
+
+<figure>
+<center>
+  <img src="/Grid_illusion.svg" style="width: 400px !important;">
+</center>
+  <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 0px; left: 0px;"><a href="https://en.wikipedia.org/wiki/Grid_illusion">Иллюзия сетки</a>
+  </figcaption>
+  </figure>
+
+---
+
 <center>
 <figure>
   <img src="/9_purple_dots.png" style="width: 330px !important; position: relative; top: -30px">
@@ -441,3 +497,17 @@ Turk](https://ru.wikipedia.org/wiki/Amazon_Mechanical_Turk)
 </div>
 </div>
 </div>
+
+---
+
+# Оптические иллюзии
+
+<center>
+<figure>
+  <img src="/michael_bach_webpage.png" style="width: 700px !important">
+</figure>
+</center>
+
+<br>
+
+#### Каталог оптических иллюзий с объяснениями: [https://michaelbach.de/ot/](https://michaelbach.de/ot/)
