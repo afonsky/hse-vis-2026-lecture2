@@ -27,7 +27,7 @@ jobs:
           node-version: 'lts/*'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --omit=dev
 
       - name: Build
         run: npm run build -- --base /${{github.event.repository.name}}/
